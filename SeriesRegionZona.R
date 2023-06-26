@@ -14,8 +14,8 @@ library(openxlsx)
 
 #0 VAMOS A LA DIRECCIÓN DEL WORKSPACE, CARGAMOS EL WORKSPACE Y NOS MOVEMOS A LA CARPETA DE TRABAJO
 
-setwd("C:/Users/cgonzalezb/Desktop/11-10-21/BASES/R_BASES/Trabajo/ReposDico/RepoDico_SeriesPorZona") #Directorio en donde se encuentra el script y sus dependencias
-load("C:/Users/cgonzalezb/Desktop/11-10-21/BASES/R_BASES/Trabajo/ReposDico/RepoDico_SeriesPorZona/CategoriasFamiliasProductosClasificacion3.RData") #Dependencias
+setwd("C:/Users/cgonzalezb/Desktop/11-10-21/BASES/R_BASES/Trabajo/ReposDico/RepoDico_SeriesPorRegion-Zona") #Directorio en donde se encuentra el script y sus dependencias
+load("C:/Users/cgonzalezb/Desktop/11-10-21/BASES/R_BASES/Trabajo/ReposDico/RepoDico_SeriesPorRegion-Zona/CategoriasFamiliasProductosClasificacion3.RData") #Dependencias
 setwd("C:/Users/cgonzalezb/Desktop/11-10-21/BASES/R_BASES/Trabajo") #Directorio en donde se encuentran las bases que serán trabajadas
 
 
